@@ -1,1 +1,1 @@
-# Fundamentals-of-Computer-Science-Training
+# Fundamentals of Computer Science Training
