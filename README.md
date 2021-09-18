@@ -102,7 +102,7 @@ Fundamentals of Computer Science Training for computer science students.
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
 <br>
 
-<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 
 
