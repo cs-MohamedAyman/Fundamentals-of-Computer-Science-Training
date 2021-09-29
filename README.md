@@ -16,7 +16,7 @@ Fundamentals of Computer Science Training for computer science students.
         <tr>
             <td align=center width="25px">500</td>
             <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">50</td>
+            <td align=center width="25px">40</td>
             <td align=center width="175px">📆 Weeks</td>
             <td align=center width="25px">5</td>
             <td align=center width="175px">📂 Courses</td>
