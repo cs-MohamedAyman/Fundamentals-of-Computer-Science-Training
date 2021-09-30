@@ -59,6 +59,7 @@ Fundamentals of Computer Science Training for computer science students.
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/agenda.jpg">
 
 ## Table of Contents
   * [Lectures](#Lectures)
