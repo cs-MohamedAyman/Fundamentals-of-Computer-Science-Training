@@ -1,10 +1,10 @@
 # Fundamentals of Computer Science Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/fundamentals-of-computer-science.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/calculus.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/algebra.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/probability-statistics.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/statistical-inferences.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/fundamentals-of-computer-science.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/calculus.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/algebra.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/probability-statistics.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/statistical-inferences.jpg"></img>
 <br><br><br><br><br>
 
 Fundamentals of Computer Science Training for computer science students.
@@ -14,44 +14,34 @@ Fundamentals of Computer Science Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="25px">500</td>
+            <td align=center width="25px">300</td>
             <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">40</td>
+            <td align=center width="25px">25</td>
             <td align=center width="175px">📆 Weeks</td>
-            <td align=center width="25px">5</td>
+            <td align=center width="25px">3</td>
             <td align=center width="175px">📂 Courses</td>
-            <td align=center width="25px">10</td>
+            <td align=center width="25px">6</td>
             <td align=center width="175px">📋 Modules</td>
         </tr>
         <tr>
-            <td align=center width="25px">60</td>
+            <td align=center width="25px">35</td>
             <td align=center width="175px">📑 Lectures</td>
-            <td align=center width="25px">360</td>
+            <td align=center width="25px">210</td>
             <td align=center width="175px">📇 Sections</td>
-            <td align=center width="25px">120</td>
+            <td align=center width="25px">70</td>
             <td align=center width="175px">📝 Quizzes</td>
-            <td align=center width="25px">900</td>
+            <td align=center width="25px">525</td>
             <td align=center width="175px">📎 Practices</td>
         </tr>
         <tr>
-            <td align=center width="25px">25</td>
+            <td align=center width="25px">22</td>
             <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">250</td>
-            <td align=center width="175px">🏷️ Tasks</td>
-            <td align=center width="25px">20</td>
-            <td align=center width="175px">🎮 Projects</td>
             <td align=center width="25px">200</td>
+            <td align=center width="175px">🏷️ Tasks</td>
+            <td align=center width="25px">40</td>
+            <td align=center width="175px">🎮 Projects</td>
+            <td align=center width="25px">400</td>
             <td align=center width="175px">🔖 Tasks</td>
-        </tr>
-        <tr>
-            <td align=center width="25px">15</td>
-            <td align=center width="175px">📚 Textbooks</td>
-            <td align=center width="25px">5</td>
-            <td align=center width="175px">🖥️ Udacity</td>
-            <td align=center width="25px">10</td>
-            <td align=center width="175px">💻 Coursera</td>
-            <td align=center width="25px">30</td>
-            <td align=center width="175px">🎞️ YouTube</td>
         </tr>
     </tbody>
 </table>
