@@ -1,8 +1,8 @@
 # Fundamentals of Computer Science Training
 
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/probability-statistics.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/mathematics.jpg"></img>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/fundamentals-of-computer-science.jpg"></img>
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/probability-statistics.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/mathematics.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/fundamentals-of-computer-science.jpg">
 <br><br><br><br><br>
 
 Fundamentals of Computer Science Training for computer science students.
@@ -12,34 +12,44 @@ Fundamentals of Computer Science Training for computer science students.
 <table>
     <tbody>
         <tr>
-            <td align=center width="25px">300</td>
-            <td align=center width="175px">🕓 Hours</td>
-            <td align=center width="25px">25</td>
-            <td align=center width="175px">📆 Weeks</td>
-            <td align=center width="25px">3</td>
-            <td align=center width="175px">📂 Courses</td>
-            <td align=center width="25px">6</td>
-            <td align=center width="175px">📋 Modules</td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clock.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Hours</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/calendar.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Weeks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/folder.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>3<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/clipboard.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>6<br>Modules</h3></td>
         </tr>
-        <tr>
-            <td align=center width="25px">35</td>
-            <td align=center width="175px">📑 Lectures</td>
-            <td align=center width="25px">210</td>
-            <td align=center width="175px">📇 Sections</td>
-            <td align=center width="25px">70</td>
-            <td align=center width="175px">📝 Quizzes</td>
-            <td align=center width="25px">525</td>
-            <td align=center width="175px">📎 Practices</td>
         </tr>
-        <tr>
-            <td align=center width="25px">22</td>
-            <td align=center width="175px">💡 Assignments</td>
-            <td align=center width="25px">200</td>
-            <td align=center width="175px">🏷️ Tasks</td>
-            <td align=center width="25px">40</td>
-            <td align=center width="175px">🎮 Projects</td>
-            <td align=center width="25px">400</td>
-            <td align=center width="175px">🔖 Tasks</td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Lectures</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/cardindex.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>180<br>Sections</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/memo.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>60<br>Quizzes</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/paperclip.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Practices</h3></td>
+        </tr>
+        </tr>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/lightbulb.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Assignments</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/label.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>150<br>Assignments<br>Tasks</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/gamepad.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>30<br>Projects</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/bookmark2.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>300<br>Projects<br>Tasks</h3></td>
+        </tr>
+        </tr>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Courses</h3></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks.jpg" width="90%"></img></td>
+<td align=center width="15%"><h3>15<br>Textbooks</h3></td>
         </tr>
     </tbody>
 </table>
@@ -47,66 +57,117 @@ Fundamentals of Computer Science Training for computer science students.
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/agenda.jpg">
+<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Lectures](#Lectures)
   * [Assignments](#Assignments)
   * [Educational-Projects](#Educational-Projects)
-  * [Textbooks](#Textbooks)
-  * [Coursera-Specializations](#Coursera-Specializations)
   * [YouTube-Playlists](#YouTube-Playlists)
+  * [Coursera-Specializations](#Coursera-Specializations)
+  * [Textbooks](#Textbooks)
 
 <br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/practice1.jpg">
+<br><br>
 
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice1.jpg">
-<br>
-<br>
-<br>
-
-## [`Lectures`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Lectures) 
-### :bookmark_tabs: `1 Lecture` :clock4: `3 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `15 Practices` 
-<br>
+## [`Lectures`](https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/tree/main/Lectures)
+### :bookmark_tabs: `1 Lecture` :clock4: `2 Hours` :card_index: `6 Sections` :pencil: `2 Quizzes` :paperclip: `10 Practices` 
 
 
 
 
-<br>
-<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/practice2.jpg">
-<br>
-<br>
 
-## [`Assignments`](https://github.com/cs-MohamedAyman/Advanced-Data-Structures-and-Algorithms-Analysis-Training/tree/main/Assignments)
-### :bulb: `1 Assignment` :clock4: `10 Hours` :label: `10 Tasks`
-<br>
+
+
+
+
+
+
+
+
+
 
 
 
 
 
 <br>
-<br>
+<img align="right" width="140" height="140" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/practice2.jpg">
+<br><br>
 
-## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Data-Structures-and-Algorithms-Analysis-Training/blob/main/Projects/README.md) 
+## [`Assignments`](https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/tree/main/Assignments)
+### :bulb: `1 Assignment` :clock4: `5 Hours` :label: `10 Tasks`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+## [`Educational-Projects`](https://github.com/cs-MohamedAyman/Fundamentals-of-Computer-Science-Training/blob/main/Projects/README.md) 
 ### :video_game: `1 Project` :clock4: `10 Hours` :bookmark: `10 Tasks`
-<br>
-
-<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/logos/educational-projects.jpg">
-
-
-
-
 
 <br>
-<img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
+<img align="middle" width="100%" height="225" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/educational-projects.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <br>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg">
 
-## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks)
+## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
 <br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/organizations-logos/coursera.jpg">
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg">
 
 ## [`Coursera-Specializations`](https://github.com/cs-MohamedAyman/Coursera-Specializations/blob/master/Computer-Science-Specializations/README.md)
 
@@ -163,7 +224,16 @@ Fundamentals of Computer Science Training for computer science students.
     </tbody>
 </table>
 
-<br>
-<img align="right" width="80" height="55" src="https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/organizations-logos/youtube.jpg">
+<br><br>
+<img align="right" width="80" height="80" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/textbooks.jpg">
 
-## [`YouTube-Playlists`](https://github.com/cs-MohamedAyman/YouTube-Playlists/blob/master/Computer-Science-Playlists/README.md)
+## [`Textbooks`](https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/README.md)
+
+
+
+
+
+
+
+
+
