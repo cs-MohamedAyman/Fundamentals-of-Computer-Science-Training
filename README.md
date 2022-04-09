@@ -44,7 +44,7 @@ Fundamentals of Computer Science Training for computer science students.
         </tr>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/youtube.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
-<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/datacamp.jpg" width="90%"></img></td>
+<td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/khan-academy.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
 <td align=center width="10%"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/coursera.jpg" width="90%"></img></td>
 <td align=center width="15%"><h3>15<br>Courses</h3></td>
