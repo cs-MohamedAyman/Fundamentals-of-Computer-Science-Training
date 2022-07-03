@@ -57,7 +57,7 @@ Fundamentals of Computer Science Training for computer science students.
 ### :pencil2: :page_facing_up: :ledger:  `keep writing your notes and enjoy learning`
 
 <br>
-<img align="right" width="100" height="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
+<img align="right" width="100" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/main/repos-logos/agenda.jpg">
 
 ## Table of Contents
   * [Lecture Notes](#Lecture-Notes)
@@ -66,4 +66,6 @@ Fundamentals of Computer Science Training for computer science students.
   * [Educational Projects](#Educational-Projects)
   * [YouTube Playlists](#YouTube-Playlists)
   * [Coursera Specializations](#Coursera-Specializations)
+  * [Technical Tutorials](Technical-Tutorials)
   * [Reference Textbooks](#Reference-Textbooks)
+  * [Job Interviews](#Job-Interviews)
