@@ -66,6 +66,6 @@ Fundamentals of Computer Science Training for computer science students.
   * [Educational Projects](#Educational-Projects)
   * [YouTube Playlists](#YouTube-Playlists)
   * [Coursera Specializations](#Coursera-Specializations)
-  * [Technical Tutorials](Technical-Tutorials)
+  * [Technical Tutorials](#Technical-Tutorials)
   * [Reference Textbooks](#Reference-Textbooks)
   * [Job Interviews](#Job-Interviews)
